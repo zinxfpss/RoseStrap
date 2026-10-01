@@ -33,9 +33,7 @@
 ## Install
 
 ```bat
-git clone https://github.com/zinxfpss/Viostrap.git
-cd Viostrap
-python main.py
+go to releases
 ```
 
 ## License
